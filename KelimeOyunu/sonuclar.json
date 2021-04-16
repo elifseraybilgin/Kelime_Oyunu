@@ -1,0 +1,32 @@
+{
+    "kisiler": [
+        {
+            "Adi": "MABEL",
+            "Puani": "3600",
+            "KalanSure": "00:54",
+            "Tarih": "11/4/2021",
+            "Zaman": "17:2:53"
+        },
+        {
+            "Adi": "BERKER",
+            "Puani": "6700",
+            "KalanSure": "00:42",
+            "Tarih": "11/4/2021",
+            "Zaman": "17:8:51"
+        },
+        {
+            "Adi": "BERKAY",
+            "Puani": "4100",
+            "KalanSure": "01:38",
+            "Tarih": "11/4/2021",
+            "Zaman": "20:29:24"
+        },
+        {
+            "Adi": "SERAY",
+            "Puani": "9600",
+            "KalanSure": "02:52",
+            "Tarih": "13/4/2021",
+            "Zaman": "18:29:27"
+        }
+    ]
+}
